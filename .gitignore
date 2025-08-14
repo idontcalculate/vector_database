@@ -1,4 +1,11 @@
-/target
-/target
-/target
+/target/
+**/*.rs.bk
+Cargo.lock
 .env
+*.swp
+*.swo
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
