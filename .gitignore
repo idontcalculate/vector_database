@@ -9,3 +9,5 @@ Cargo.lock
 *~
 .DS_Store
 Thumbs.db
+.env
+/target/
