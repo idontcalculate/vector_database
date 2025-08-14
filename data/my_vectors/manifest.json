@@ -1,0 +1,10 @@
+{
+  "name": "my_vectors",
+  "dim": 3,
+  "metric": "Cosine",
+  "hnsw": {
+    "m": 16,
+    "ef_construction": 200,
+    "ef_search": 50
+  }
+}
